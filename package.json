@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "gulp": "^3.9.0",
     "kinesis": "^1.2.2",
     "stream": "0.0.2"
   }
