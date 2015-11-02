@@ -1,0 +1,15 @@
+{
+  "name": "gulp-kinesis-stream",
+  "version": "0.0.1",
+  "description": "Gulp task to print kinesis stream events",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "kinesis": "^1.2.2",
+    "stream": "0.0.2"
+  }
+}
